@@ -5,6 +5,7 @@
  */
 "use strict";
 
+// .env
 require("dotenv").config();
 const { createServer } = require("@lhci/server");
 
